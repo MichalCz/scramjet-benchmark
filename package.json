@@ -13,9 +13,9 @@
   "license": "MIT",
   "dependencies": {
     "aigle": "^1.14.1",
-    "async": "^3.1.0",
+    "async": "^3.1.1",
     "lodash": "^4.17.15",
-    "scramjet": "^4.27.6",
+    "scramjet": "^4.27.7",
     "si": "^2.0.0"
   },
   "devDependencies": {
