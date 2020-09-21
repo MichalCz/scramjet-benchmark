@@ -15,11 +15,11 @@
     "aigle": "^1.14.1",
     "async": "^3.2.0",
     "lodash": "^4.17.20",
-    "scramjet": "^4.34.6",
+    "scramjet": "^4.34.7",
     "si": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.8.1",
+    "eslint": "^7.9.0",
     "eslint-config-defaults": "^9.0.0",
     "eslint-plugin-node": "^11.1.0"
   }
