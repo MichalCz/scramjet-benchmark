@@ -9,7 +9,7 @@
   "engines": {
     "node": ">=10"
   },
-  "author": "Scramjet <open-source@scramjet.com>",
+  "author": "Scramjet <open-source@scramjet.org>",
   "license": "MIT",
   "dependencies": {
     "aigle": "^1.14.1",
